@@ -1,6 +1,5 @@
 /**
  * La funcionalidad de este script está inspirada en este codepen:
-
  * - https://codepen.io/wefiy/pen/JxdzPG - Canvas Grid lines animation
  */
 
