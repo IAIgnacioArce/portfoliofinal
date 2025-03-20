@@ -52,7 +52,14 @@
         "title": "Analysis and Consulting for Gastronomic Investment",
         "description": "The main objective of this project is to simulate a business consulting firm while participating in a practical project. In this scenario, a client approaches us to analyze the opportunities of opening a restaurant somewhere in the state of Florida.",
         "image": "/src/images/projects/pipeline Proyecto FINAL.jpg",
-        "techs": ["Python", "GoogleCloud", "Docker", "Airflow", "Streamlit", "PowerBI"],
+        "techs": [
+          "Python",
+          "GoogleCloud",
+          "Docker",
+          "Airflow",
+          "Streamlit",
+          "PowerBI"
+        ],
         "code": {
           "text": "Code",
           "url": "https://github.com/IAIgnacioArce/henry_proyecto_final"
