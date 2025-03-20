@@ -1,0 +1,129 @@
+{
+  "title": "Data Scientist & Data Analyst - Ignacio Arce",
+  "description": "Data Scientist & Data Analyst de Cordoba, Argentina. Especialista en Python, SQL, Power BI.",
+  "navbar": [
+    {
+      "label": "Inicio",
+      "href": "#top"
+    },
+    {
+      "label": "Experiencia",
+      "href": "#experiencia-laboral"
+    },
+    {
+      "label": "Proyectos",
+      "href": "#proyectos"
+    },
+    {
+      "label": "Sobre mí",
+      "href": "#sobre-mi"
+    }
+  ],
+  "hero": {
+    "job_availability": "¡Disponible para trabajar!",
+    "title": "¡Hola soy Ignacio Arce!",
+    "job_title": "<strong>Data Scientist & Data Analyst</strong> de Córdoba, Argentina.",
+    "description": "Especialista en Python, SQL, Power BI.",
+    "cta": "Contactame"
+  },
+  "experience": {
+    "title": "Experiencia Semi-profesional",
+    "jobs": {
+      "jobs_title": ["Igrowker"],
+      "jobs_description": [
+        {
+          "title": "Data Science & Data Analyst",
+          "time": ["sep 2024 - Nov 2024"],
+          "description": "En este proyecto fui Líder del área de Data Analytics, donde coordiné un equipo de 7 miembros especializados en análisis de datos. Nos enfrentamos al desafío de limpiar y transformar grandes volúmenes de datos para implementar un modelo de machine learning que predice la tasa de conversión y el alcance de campañas publicitarias en función de sus características. Utilizamos herramientas como Python y Scikit-learn para el modelo, que fue desplegado en Streamlit. Además, llevamos a cabo un análisis comparativo entre las predicciones y los resultados reales de las campañas, lo que permitió generar recomendaciones clave para la toma de decisiones estratégicas. Este esfuerzo se enmarca dentro del desarrollo de CEREM, un CRM que centraliza todas las funciones en una sola plataforma y utiliza inteligencia artificial para simplificar la gestión. El sistema se integra con Google Calendar y Google Keep para una gestión eficiente del tiempo y las tareas de marketing.",
+          "list": [
+            "Limpieza y transformación de datos",
+            "Desarrollo de modelos de machine learning",
+            "Análisis de resultados de campañas",
+            "Despliegue en Streamlit"
+          ]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "projects": [
+      {
+        "title": "Análisis y Consultoría para Inversión Gastrónomica",
+        "description":"El objetivo principal de este proyecto es simular una firma de consultoría empresarial mientras participamos en un proyecto práctico. En este escenario, un cliente se acerca a nosotros para analizar las oportunidades de abrir un restaurante en algún lugar del estado de Florida.",
+        "image": "/src/images/projects/pipeline Proyecto FINAL.jpg",
+        "techs": ["Python", "GoogleCloud", "Docker", "Airflow", "Streamlit", "PowerBI"],
+        "code": {
+          "text": "Código",
+          "url": "https://github.com/IAIgnacioArce/henry_proyecto_final"
+        },
+        "preview": {
+          "text": "Vista previa",
+          "url": "https://github.com/IAIgnacioArce/henry_proyecto_final"
+        }
+      },
+      {
+        "title": "Análisis de Homicidios en Siniestros Viales en CABA",
+        "description":"En este proyecto he asumido el rol de Data Analyst en el equipo de analistas de datos de una empresa consultora contratada por el Observatorio de Movilidad y Seguridad Vial (OMSV), perteneciente a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). El objetivo es proporcionar información para que las autoridades locales puedan tomar medidas efectivas para reducir la cantidad de víctimas fatales en siniestros viales en CABA. Se emplea un conjunto de datos sobre homicidios en siniestros viales ocurridos en la Ciudad de Buenos Aires durante el periodo 2016-2021.",
+        "image": "/src/images/projects/SINIESTROS VIALES.jpg",
+        "techs": ["Python", "PowerBI"],
+        "code": {
+          "text": "Código",
+          "url": "https://github.com/IAIgnacioArce/ProyectoSiniestrosViales"
+        },
+        "preview": {
+          "text": "Vista previa",
+          "url": "https://github.com/IAIgnacioArce/ProyectoSiniestrosViales"
+        }
+      },
+      {
+        "title": "Proyecto MLOps para Steam",
+        "description": "En este proyecto he asumido el rol de un Ingeniero MLOps para la plataforma de videojuegos Steam. Se busca desarrollar un Producto Mínimo Viable (MVP) que incluya la implementación de una API en la nube y la aplicación de dos modelos de machine learning para análisis de sentimientos en los comentarios de usuarios y recomendación de juegos.",
+        "image": "/src/images/projects/STEAM.jpg",
+        "techs": ["Python", "FastApi"],
+        "code": {
+          "text": "Código",
+          "url": "https://github.com/IAIgnacioArce/Sistema_recomendacion_Steam"
+        },
+        "preview": {
+          "text": "Vista previa",
+          "url": "https://github.com/IAIgnacioArce/Sistema_recomendacion_Steam"
+        }
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Prácticas Voluntarias",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/Captura de pantalla 2025-03-18 154500.png",
+        "alt": "Teaching Assistant",
+        "title": "Teaching Assistant",
+        "description":  "He tenido el privilegio de ser elegido como 𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭,gracias al fruto de mi dedicacion. He acompañando al grupo 3 de la cohorte DataFT23. Este grupo de personas se transformó en un equipo excepcional, donde se reflejó el crecimiento personal y profesional de cada participe. ",
+        "techs": ["Python", "PowerBI", "MySQL"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "📊💡🧠📚💻✍🏼📓",
+    "description":  "Soy Data Scientist & Data Analyst. Actualmente estudio Ingeniería en Sistemas en la UTN y tengo un gran interés en Ciberseguridad. Me mantengo en constante aprendizaje a través de cursos especializados, entre ellos, destaco 'Supervised Machine Learning: Regression and Classification' y 'Advanced Learning Algorithms', ambos impartidos por Stanford University, los cuales han sido fundamentales para fortalecer mis conocimientos en machine learning y algoritmos avanzados."
+  },
+  "contact": {
+    "title": "¿Listo para transformar datos en conocimiento?",
+    "subtitle": "Estoy abierto a nuevas oportunidades y colaboraciones. Hablemos sobre cómo puedo aportar a tu proyecto o equipo."
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Diseñado con",
+      "designed_by": "por"
+    },
+    "developed": {
+      "developed_with": "Hecho con",
+      "developed_by": "por"
+    }
+  }
+}

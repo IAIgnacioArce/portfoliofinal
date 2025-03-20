@@ -1,0 +1,129 @@
+{
+  "title": "Data Scientist & Data Analyst - Ignacio Arce",
+  "description": "Data Scientist & Data Analyst from Cordoba, Argentina. Specialist in Python, SQL, Power BI.",
+  "navbar": [
+    {
+      "label": "Home",
+      "href": "#top"
+    },
+    {
+      "label": "Experience",
+      "href": "#work-experience"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    },
+    {
+      "label": "About Me",
+      "href": "#about-me"
+    }
+  ],
+  "hero": {
+    "job_availability": "Available for work!",
+    "title": "Hello, I'm Ignacio Arce!",
+    "job_title": "<strong>Data Scientist & Data Analyst</strong> from Cordoba, Argentina.",
+    "description": "Specialist in Python, SQL, Power BI.",
+    "cta": "Contact Me"
+  },
+  "experience": {
+    "title": "Semi-professional Experience",
+    "jobs": {
+      "jobs_title": ["Igrowker"],
+      "jobs_description": [
+        {
+          "title": "Data Science & Data Analyst",
+          "time": ["Sep 2024 - Nov 2024"],
+          "description": "In this project, I was the Leader of the Data Analytics area, coordinating a team of 7 members specialized in data analysis. We faced the challenge of cleaning and transforming large volumes of data to implement a machine learning model that predicts conversion rates and the reach of advertising campaigns based on their characteristics. We used tools like Python and Scikit-learn for the model, which was deployed on Streamlit. Additionally, we conducted a comparative analysis between predictions and actual campaign results, generating key recommendations for strategic decision-making. This effort was part of the development of CEREM, a CRM that centralizes all functions into a single platform and uses artificial intelligence to simplify management. The system integrates with Google Calendar and Google Keep for efficient time and marketing task management.",
+          "list": [
+            "Data cleaning and transformation",
+            "Machine learning model development",
+            "Campaign results analysis",
+            "Deployment on Streamlit"
+          ]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Analysis and Consulting for Gastronomic Investment",
+        "description": "The main objective of this project is to simulate a business consulting firm while participating in a practical project. In this scenario, a client approaches us to analyze the opportunities of opening a restaurant somewhere in the state of Florida.",
+        "image": "/src/images/projects/pipeline Proyecto FINAL.jpg",
+        "techs": ["Python", "GoogleCloud", "Docker", "Airflow", "Streamlit", "PowerBI"],
+        "code": {
+          "text": "Code",
+          "url": "https://github.com/IAIgnacioArce/henry_proyecto_final"
+        },
+        "preview": {
+          "text": "Preview",
+          "url": "https://github.com/IAIgnacioArce/henry_proyecto_final"
+        }
+      },
+      {
+        "title": "Analysis of Homicides in Traffic Accidents in CABA",
+        "description": "In this project, I took on the role of Data Analyst in the data analysis team of a consulting firm hired by the Mobility and Road Safety Observatory (OMSV), part of the Transportation Secretariat of the Government of the Autonomous City of Buenos Aires (CABA). The goal is to provide information so that local authorities can take effective measures to reduce the number of fatal victims in traffic accidents in CABA. A dataset on homicides in traffic accidents that occurred in Buenos Aires from 2016-2021 is used.",
+        "image": "/src/images/projects/SINIESTROS VIALES.jpg",
+        "techs": ["Python", "PowerBI"],
+        "code": {
+          "text": "Code",
+          "url": "https://github.com/IAIgnacioArce/ProyectoSiniestrosViales"
+        },
+        "preview": {
+          "text": "Preview",
+          "url": "https://github.com/IAIgnacioArce/ProyectoSiniestrosViales"
+        }
+      },
+      {
+        "title": "MLOps Project for Steam",
+        "description": "In this project, I took on the role of an MLOps Engineer for the Steam gaming platform. The goal is to develop a Minimum Viable Product (MVP) that includes the implementation of a cloud-based API and the application of two machine learning models for sentiment analysis in user reviews and game recommendation.",
+        "image": "/src/images/projects/STEAM.jpg",
+        "techs": ["Python", "FastApi"],
+        "code": {
+          "text": "Code",
+          "url": "https://github.com/IAIgnacioArce/Sistema_recomendacion_Steam"
+        },
+        "preview": {
+          "text": "Preview",
+          "url": "https://github.com/IAIgnacioArce/Sistema_recomendacion_Steam"
+        }
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Volunteer Work",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/Captura de pantalla 2025-03-18 154500.png",
+        "alt": "Teaching Assistant",
+        "title": "Teaching Assistant",
+        "description": "I had the privilege of being chosen as a 𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭, thanks to my dedication. I accompanied Group 3 of the DataFT23 cohort. This group of individuals became an exceptional team, where personal and professional growth was reflected in every participant.",
+        "techs": ["Python", "PowerBI", "MySQL"],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "📊💡🧠📚💻✍🏼📓",
+    "description": "I am a Data Scientist & Data Analyst. I am currently studying Systems Engineering at UTN and have a great interest in Cybersecurity. I am constantly learning through specialized courses, among which I highlight 'Supervised Machine Learning: Regression and Classification' and 'Advanced Learning Algorithms,' both taught by Stanford University, which have been fundamental in strengthening my knowledge in machine learning and advanced algorithms."
+  },
+  "contact": {
+    "title": "Ready to turn data into insights?",
+    "subtitle": "I am open to new opportunities and collaborations. Let's discuss how I can contribute to your project or team."
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Designed with",
+      "designed_by": "by"
+    },
+    "developed": {
+      "developed_with": "Made with",
+      "developed_by": "by"
+    }
+  }
+}
